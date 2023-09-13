@@ -32,4 +32,6 @@ git branch - define barch(master only is fine)
 git remote -v - toget orgins wher ewe can push 
 git remote add origin https://github.com/Sasidhar1080/Git_WS.git  - ur url
 git push -u origin master - it will push  whre u can select brach 
+ 
+mak ea file of .ignore - which will dont push even u tried to add for sercurity 
 
