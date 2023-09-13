@@ -28,6 +28,6 @@ Demo -
 git init - initize git hub
 git commit - to commit new lines (opened VM :  1st line - commit name , 2nd - description tpo ,exit  esc+ :WQ(WQ - write and quit ))
 git status - to get status 
-
+git branch - define barch(master only is fine)
 
 
