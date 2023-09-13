@@ -1,6 +1,33 @@
-hello git 
-
-hi
+Git 
 
 
-hello
+VC(Version control)
+- to get restore & backup of code
+
+types of vc
+
+- full backup - whole code
+- deltas - (only changes)
+-snapshots -(verions back)
+
+
+Disturbuted VCS 
+- single server (there is no main files specified)
+
+cont 
+- how the git flows 
+- modifications how it flows
+
+branches
+
+- parellel commit
+
+
+Demo -
+
+git init - initize git hub
+git commit - to commit new lines (opened VM :  1st line - commit name , 2nd - description tpo ,exit  esc+ :WQ(WQ - write and quit ))
+git status - to get status 
+
+
+
